@@ -1,0 +1,21 @@
+h1{
+    position: absolute;
+    top: 135px;
+    left: 335px;
+    color: white;
+    font-size: 60px;
+}
+h2{
+    position: absolute;
+    top: 273px;
+    left: 340px;
+    color: white;
+    font-size: 35px;
+}
+h3{
+    position: absolute;
+    top: 360px;
+    left: 360px;
+    color: white;
+    font-size: 35px;
+}

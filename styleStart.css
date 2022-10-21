@@ -1,0 +1,40 @@
+@font-face {
+    font-family: Silk;
+    src: url(Silkscreen-Regular.ttf);
+  } 
+*{
+    font-family: Silk;
+}
+h1{
+    position: absolute;
+    top: 15px;
+    left: 115px;
+    color: white;
+    font-size: 40px;
+    font-family: Silk;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    align-items: center;
+    position: absolute;
+    top: 200px;
+    left: 110px;
+    background-color: transparent;
+}
+div{
+    height: 80px;
+    width: 80px;
+    background-color: orange;
+    margin: 5px 5px 5px 5px;
+    text-align: center;
+    font-size: 25px;
+}
+.grid-item-1{
+    grid-column: 1;
+}
+.bana2{
+    height: 600px;
+    width: 600px;
+}

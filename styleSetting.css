@@ -8,9 +8,9 @@
 h1{
     position: absolute;
     top: 135px;
-    left: 295px;
+    left: 285px;
     color: white;
-    font-size: 60px;
+    font-size: 40px;
 }
 h2{
     position: absolute;
@@ -21,8 +21,8 @@ h2{
 }
 h3{
     position: absolute;
-    top: 360px;
-    left: 350px;
+    top: 375px;
+    left: 280px;
     color: white;
-    font-size: 35px;
+    font-size: 23px;
 }

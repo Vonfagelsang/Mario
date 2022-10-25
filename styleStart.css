@@ -37,7 +37,15 @@ div{
 .grid-item-1{
     grid-column: 1;
 }
+.bana1{
+    height: 600px;
+    width: 600px;
+}
 .bana2{
+    height: 600px;
+    width: 600px;
+}
+.bana3{
     height: 600px;
     width: 600px;
 }

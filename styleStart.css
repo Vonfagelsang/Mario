@@ -18,12 +18,12 @@ h1{
 }
 .grid{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: auto;
     align-items: center;
     position: absolute;
     top: 110px;
-    left: 110px;
+    left: 40px;
     background-color: transparent;
 }
 div{
